@@ -9,6 +9,11 @@ Keiichiro Ono (UC, San Diego Dept of Medicine)
 ## What's this?
 This repository contains all course materials for the lecture.
 
+## Slides
+
+* [Lecture 1: Introduction to Cytoscape](http://www.slideshare.net/keiono/introduction-to-biological-network-analysis-and-visualization-with-cytoscape-part1)
+* [Lecture 2: Building workflows with Jupyter Notebook and py2cytoscape](http://www.slideshare.net/keiono/introduction-to-biological-network-analysis-and-visualization-with-cytoscape-part-2)
+
 
 ## Contents
 
